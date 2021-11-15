@@ -1,0 +1,14 @@
+@media(max-width: 400px){
+    div.chart-container{
+        width: 300px;
+    }
+    .menu{
+        display: block;
+    }
+}
+
+@media(max-width: 900px){
+    .chart-container{
+        width: 100%;
+    }
+}

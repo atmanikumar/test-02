@@ -1,0 +1,16 @@
+.capture{
+    height: 80vh;
+    padding: 20px;
+    text-align: center;
+}
+#canvas{
+    display: none;
+}
+
+video, img {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    margin: auto;
+    width: 100%;
+    max-width: 600px;
+  }
